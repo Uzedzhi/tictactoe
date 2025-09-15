@@ -30,10 +30,12 @@ Rules:
             ___|___|___  II  ___|___|___  II  ___|___|___     
                |   |     II     |   |     II     |   |        
                |   |     II     |   |     II     |   |        
-                         II               II                ```
-   when the 2nd person MUST play in a center-right big grid
-   2nd plays:```
-                            II               II                  
+                         II               II
+```
+when the 2nd person MUST play in a center-right big grid<br>
+2nd plays:
+```
+                         II               II                  
                |   |     II     |   |     II     |   |        
             ___|___|___  II  ___|___|___  II  ___|___|___     
                |   |     II     |   |     II     |   |        
@@ -58,4 +60,5 @@ Rules:
             ___|___|___  II  ___|___|___  II  ___|___|___     
                |   |     II     |   |     II     |   |        
                |   |     II     |   |     II     |   |        
-                         II               II     ```
+                         II               II
+```
